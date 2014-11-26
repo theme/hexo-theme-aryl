@@ -1,4 +1,4 @@
-# Landscape
+# Aryl
 
 A simple theme for [Hexo].
 
@@ -55,6 +55,7 @@ Landscape uses [Fancybox] to showcase your photos. You can use Markdown syntax o
 
 
 [Hexo]: http://zespia.tw/hexo/
+[Slate]: https://github.com/jasoncostello/slate
 [Fancybox]: http://fancyapps.com/fancybox/
 [Font Awesome]: http://fontawesome.io/
 [favicon generator]: http://realfavicongenerator.net/
